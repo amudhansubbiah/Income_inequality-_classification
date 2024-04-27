@@ -1,1 +1,1 @@
-# Income_inequality-_classification
+# income_inequality_classification
